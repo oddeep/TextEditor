@@ -1,0 +1,6 @@
+C:\C#\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.dll
+C:\C#\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.pdb
+C:\C#\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.csproj.AssemblyReference.cache
+C:\C#\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.csproj.CoreCompileInputs.cache
+C:\C#\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.dll
+C:\C#\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.pdb
